@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <link href="https://xdag.io/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://xdag.io/blog/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2018-08-29T03:42:59+00:00</updated>
+  <id>https://xdag.io/</id>
+  <title type="html">XDAG</title>
+  <subtitle>A new DAG-based cryptocurrency</subtitle>
+  <author>
+      <name>Xdag.io</name>
+      <email>communitymanager@xdag.io</email>
+  </author><entry xml:lang="en">
+      <title type="html">Congratulations to our Facebook and Twitter giveaway winners</title>
+      <link href="https://xdag.io/2018/08/24/giveaway-winners.html" rel="alternate" type="text/html" title="Congratulations to our Facebook and Twitter giveaway winners" />
+      <published>2018-08-24T17:00:00+00:00</published>
+      <updated>2018-08-24T17:00:00+00:00</updated>
+      <id>https://xdag.io/2018/08/24/giveaway-winners</id>
+      <content type="html" xml:base="https://xdag.io/2018/08/24/giveaway-winners.html">As we draw the conclusion of our giveaways on Facebook/Twitter, we would like say congratulations to Antonio (Facebook) &amp;amp; yiranhen13 (Twitter). Both both participants will receive 1000 XDAG and one XDAG novelty shirt.
+
+
+  Facebook Transaction Tx
+  Twitter Transaction Tx
+
+
+The promotion was ran from 08/10/2018 to 08/19/2018 on our Facebook/Twitter platforms and was considered to be a success, we are trying to grow our online presence, and will be running more promotions, contest, giveaways in the upcoming future. Stay tuned for future updates, and a big thank you to all whom participated.</content><author>
+          <name>Xdag.io</name><email>communitymanager@xdag.io</email></author><summary type="html">As we draw the conclusion of our giveaways on Facebook/Twitter, we would like say congratulations to Antonio (Facebook) and yiranhen13 (Twitter).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://xdag.io/assets/images/posts/giveaway-winners.jpg" /></entry><entry xml:lang="en">
+      <title type="html">Progress in China — iWeb conference and XDAG meetup</title>
+      <link href="https://xdag.io/2018/08/16/iweb-conference-and-xdag-meetup.html" rel="alternate" type="text/html" title="Progress in China — iWeb conference and XDAG meetup" />
+      <published>2018-08-16T12:00:00+00:00</published>
+      <updated>2018-08-16T12:00:00+00:00</updated>
+      <id>https://xdag.io/2018/08/16/iweb-conference-and-xdag-meetup</id>
+      <content type="html" xml:base="https://xdag.io/2018/08/16/iweb-conference-and-xdag-meetup.html">iWeb Conference
+
+We are pleased to announce XDAG has taken part in the 2018 iWeb conference held at the Beijing International Convention Center on August 12th.
+
+This year, blockchain technology is one of the primary themes of the iWeb conference. Developers from multiple tech industries gather there to discuss and share ideas about blockchain, and blockchain technology.
+
+We are excited to announce one of our community developers Frozen,  was representing us at the convention. He had the opportunity while at the conference to, set up a booth, do some networking, generate interest in XDAG, as well as setting up a few mobile wallets and handing out some XDAG while he was there to a few lucky souls!!
+
+A special thank you to all who contributed XDAG so Airdrops could be made possible this weekend:
+bbx.com, coinbat.com, feipool.xyz, vspool.com, xdagcn.com, xdag.in, 大胖鱼, 王备, Calvin.
+
+
+  
+  
+    
+  
+  
+  
+    
+  
+  
+  
+    
+  
+  
+
+
+XDAG Meetup
+
+We are also pleased to announce we held our first XDAG development meetup in Beijing, China on August 11th. Some of the key discussion points were:
+
+  The logic of XDAG
+  Implementing mining through the Python language
+  How to achieve DAG structure in XDAG
+  Double spending processing and high TPS
+  Current development status
+  Progressing the roadmap and what the future holds for XDAG
+
+
+The meeting ended with a Q&amp;amp;A session.
+
+We are currently trying to implement Python XDAG to display the logic of XDAG, a few devs are going to join us to implement Golang XDAG, which development will be starting very soon. There will be three developers working on Golang XDAG with the goal to implement enhanced pool node functionality.
+
+On this note Frozen has said that XDAG will be very busy over the next month or so with 7 activities for XDAG each weekend working up until the end of September in different cities. We will be sure to keep you all posted on these events! The convention was considered a success with a considerable turnout and with many conversations had on behalf of XDAG, as well as the XDAG Development meetup attended by Frozen.
+
+The community would like to say many thanks for representing us this weekend as well A big thanks to bCamp for providing meeting rooms and a variety of snacks for the team! Thanks bCamp for the long-term support of the XDAG community! This is all very exciting news and the team is very excited about welcoming more contributors to the project, the more we grow, firm up our technology, work hard on our social platforms and outreach, the moons the limit.</content><author>
+          <name>Xdag.io</name><email>communitymanager@xdag.io</email></author><summary type="html">We are pleased to announce XDAG has taken part in the 2018 iWeb conference held at the Beijing International Convention Center on August 12th.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://xdag.io/assets/images/posts/iweb2018/iweb.png" /></entry><entry xml:lang="en">
+      <title type="html">Community fund rewards for July</title>
+      <link href="https://xdag.io/2018/08/06/community-fund-rewards-july.html" rel="alternate" type="text/html" title="Community fund rewards for July" />
+      <published>2018-08-06T10:00:00+00:00</published>
+      <updated>2018-08-06T10:00:00+00:00</updated>
+      <id>https://xdag.io/2018/08/06/community-fund-rewards-july</id>
+      <content type="html" xml:base="https://xdag.io/2018/08/06/community-fund-rewards-july.html">Dear community, the rewards for the month of July 2018 have been decided.
+
+The rewards are based on Github contributions and  notable community involvement. Transaction IDs are linked to each name.
+The amounts reflect a rough average value of the currency in the last 5 days of the month.
+
+For their constant help and daily involvement in the development of XDAG and its core code, 
+the following people are rewarded 51282 XDAG (153846 in total):
+
+  Evgeniy
+  Frozen
+  Sgaragagghu
+
+
+For their constant help and a daily involvement in the development of the project, 
+the following people are rewarded 12820 XDAG (51280 in total):
+
+  amazingMan2017
+  ssyijiu
+  Mathsw
+  Jimmy
+
+
+For helping out others on our social channels, completing light development tasks, or generally contributing to the development of XDAG, 
+the following people are rewarded 9615 XDAG (67305 in total):
+
+  rubencm (Discord help/light code task)
+  13ecause (Discord help)
+  hughchiu (CN telegram maintainer)
+  merklin (Discord help)
+  cyan_inf (Facebook page maintainer)
+  Arkadiy (BTCT thread maintainer)
+  One8zero3 (Discord help)
+
+
+For paying $25 to create a Google Play Developer account to upload our Android software, the following person is granted 641 XDAG (641 in total):
+
+  Sofar
+
+
+Combined total: 273072 XDAG.
+Thank you everyone for being a part of the community and contributing to XDAG’s progress.</content><author>
+          <name>Xdag.io</name><email>communitymanager@xdag.io</email></author><summary type="html">Dear community, the rewards for the month of July 2018 have been decided.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://xdag.io/assets/images/posts/community-fund-rewards.jpg" /></entry><entry xml:lang="en">
+      <title type="html">Community fund rewards for June</title>
+      <link href="https://xdag.io/2018/08/06/community-fund-rewards-june.html" rel="alternate" type="text/html" title="Community fund rewards for June" />
+      <published>2018-08-06T09:00:00+00:00</published>
+      <updated>2018-08-06T09:00:00+00:00</updated>
+      <id>https://xdag.io/2018/08/06/community-fund-rewards-june</id>
+      <content type="html" xml:base="https://xdag.io/2018/08/06/community-fund-rewards-june.html">Dear community, the rewards for the month of June 2018 have been decided.
+
+The rewards are based on Github contributions and  notable community involvement. Transaction ID’s are linked to each name. Please remember the amounts reflect the valuation of the currency in the last 5 days of the month averaged out roughly.
+
+For their constant help and daily involvement in the development of XDAG and its core code, 
+the following people are rewarded 37037 XDAG (74047 in total):
+
+  Evgeniy
+  Frozen
+
+
+For their constant help and daily involvement in the development of XDAG and its core code, the following person is rewarded 18518 XDAG (18518 in total):
+
+  Sgaragagghu
+
+
+For their constant help and for testing the core code of XDAG,
+the following people are rewarded 9260 XDAG (18520 in total):
+
+  Kbs1
+  Anotheryou
+
+
+For their constant help and daily involvement in the marketing development of XDAG, 
+the following people are rewarded 9260 XDAG (18520 in total):
+
+  Mathsw
+  Jimmy
+
+
+For help provided on the development of the wallet,
+the following person is rewarded 9260 XDAG (9260 in total):
+
+  amazingMan2017 (App Development)
+
+
+For help provided on RPC,
+the following person is rewarded 4630 XDAG (4630 in total):
+
+  Peter (RPC Development)
+
+
+For helping out others on our social channels, completing light development tasks, or generally contributing to the development of XDAG, 
+the following people are rewarded 6944 XDAG (41664 in total):
+
+  rubencm (Discord help/light code task)
+  13ecause (Discord help)
+  hughchiu (CN telegram maintainer)
+  merklin (Discord help)
+  cyan_inf (Facebook page maintainer)
+  true (Discord help and code)
+
+
+Combined total: 185159 XDAG
+Thank you everyone for being a part of the community and contributing to XDAG’s progress.</content><author>
+          <name>Xdag.io</name><email>communitymanager@xdag.io</email></author><summary type="html">Dear community, the rewards for the month of June 2018 have been decided.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://xdag.io/assets/images/posts/community-fund-rewards.jpg" /></entry><entry xml:lang="en">
+      <title type="html">XDAG Android Wallet Release</title>
+      <link href="https://xdag.io/2018/07/30/xdag-wallet-release.html" rel="alternate" type="text/html" title="XDAG Android Wallet Release" />
+      <published>2018-07-30T19:00:00+00:00</published>
+      <updated>2018-07-30T19:00:00+00:00</updated>
+      <id>https://xdag.io/2018/07/30/xdag-wallet-release</id>
+      <content type="html" xml:base="https://xdag.io/2018/07/30/xdag-wallet-release.html">We are pleased to announce the first release of XDAG Android wallet.  Our first version of Android wallet is released now.
+
+Many thanks to community developers, amazingMan2017 and ssyijiu.
+
+Pool will be auto-connected when starting the wallet. You can create, backup and restore your wallet with transaction history. You can send and receive XDAG by scanning QR code.
+
+Full feature list:
+
+  Create/Backup/Restore wallet
+  Transactions history
+  Auto-connect to nodes
+  Manually switch nodes
+  Security check for root
+  Auto-check for new updates
+  Support QR code for sending and receiving XDAG
+  Feedback form
+
+
+Download the apk here: https://github.com/XDagger/android-wallet/releases
+Source code: https://github.com/XDagger/android-wallet/
+
+If you find any bugs, please submit an Issue at https://github.com/XDagger/android-wallet/issues</content><author>
+          <name>Xdag.io</name><email>communitymanager@xdag.io</email></author><summary type="html">We are pleased to announce the first release of XDAG Android wallet. Our first version of Android wallet is released now.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://xdag.io/assets/images/posts/androidwallet.png" /></entry><entry xml:lang="en">
+      <title type="html">XDAG GPU Miner v0.3.0 Release</title>
+      <link href="https://xdag.io/2018/07/12/gpu-miner-v030-release.html" rel="alternate" type="text/html" title="XDAG GPU Miner v0.3.0 Release" />
+      <published>2018-07-12T08:30:00+00:00</published>
+      <updated>2018-07-12T08:30:00+00:00</updated>
+      <id>https://xdag.io/2018/07/12/gpu-miner-v030-release</id>
+      <content type="html" xml:base="https://xdag.io/2018/07/12/gpu-miner-v030-release.html">Our core developer Evgeniy has released an update to his XDAG GPU Miner. It now supports worker names and comes with a Mac OS version! Full change list can be found below.
+
+
+  XDAG GPU Miner v0.3.0 release
+  Github
+
+
+Change list:
+
+  New option -w &amp;lt;WORKER_NAME&amp;gt; - allows to set names for your rigs. Compatible only with XDAG 0.2.5. Do not use this option with pools version 0.2.4 and lower. Miner will be disconnected.
+  Miner tries to restart GPUs in case of errors.
+  In case of some GPU stopped - miner will not longer constantly print the last known hashrate value.
+  You can configure -nvidia-fix parameter now: -nvidia-fix N, N can an integer from 5 to 95. Default value is 90. This parameter is intended to decrease CPU usage on computers with Nvidia GPUs. If the parameter is specified, logic of miner calculates how much time GPU spends on each range of nonces and switches current thread to the sleeping state for some part of the time. Sleeping for 90% of time could cause decresing of hashrate, so now you can configure the parameter yourself. But the less the time of sleeping - the more CPU usage.
+  New parameter -vectors - enables OpenCL vector operations. On some GPUs it can increase performance, on some - decrease.
+  Version for Mac OS.
+  Optional fee 1%. You can disable fee with option -no-fee.</content><author>
+          <name>Xdag.io</name><email>communitymanager@xdag.io</email></author><summary type="html">Our core developer Evgeniy has released an update to his XDAG GPU Miner. It now supports worker names and comes with a Mac OS version! Full change list can be found below.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://xdag.io/assets/images/about-mining.jpg" /></entry><entry xml:lang="en">
+      <title type="html">XDAG v0.2.5 Release</title>
+      <link href="https://xdag.io/2018/07/12/xdag-v025-release.html" rel="alternate" type="text/html" title="XDAG v0.2.5 Release" />
+      <published>2018-07-12T07:30:00+00:00</published>
+      <updated>2018-07-12T07:30:00+00:00</updated>
+      <id>https://xdag.io/2018/07/12/xdag-v025-release</id>
+      <content type="html" xml:base="https://xdag.io/2018/07/12/xdag-v025-release.html">We are pleased to announce that XDAG v0.2.5 is released.
+
+
+  XDAG v0.2.5 release
+  Github
+  BitcoinTalk
+
+
+Change list:
+
+  Increased performance of loading of storage folder and synchronisation between pools (up to 100%).
+  Worker names. Now it is possible to mark your rigs with names and track them. New version of Dagger Gpu Miner (v0.3.0) supports that feature.
+  Hashrate for miners is calculated by pool.
+  It is not necessary to specify pool address to start a wallet. You can start executable file without any parameters and wallet will automatically connect to any available pool.
+  CPU-mining is removed from GUI-wallet.
+  Order of transactions returned by block command is changed. The newest transactions are shown first now
+  New and change pool parameters and command:
+    
+      mainblocks N command - returns list of newest main blocks with some additional information
+      minedblocks N command - returns list of last main blocks mined by current pool
+      lastblocks command is marked as obsolete and will be removed in xdag v0.3.1
+      miner &amp;lt;ADDRESS&amp;gt; command - prints detailed information about specified miner
+      -dm startup option - makes it possible to disable mining at all on the current pool. Disables generating new blocks each 64 seconds and pool is not available for connections for miners. This option is necessary for block explorer.
+    
+  
+  Several small bug-fixes and improvements</content><author>
+          <name>Xdag.io</name><email>communitymanager@xdag.io</email></author><summary type="html">We are pleased to announce that XDAG v0.2.5 is released.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://xdag.io/assets/images/posts/v025.png" /></entry><entry xml:lang="en">
+      <title type="html">Looking for New Contributors</title>
+      <link href="https://xdag.io/2018/06/27/looking-for-contributors.html" rel="alternate" type="text/html" title="Looking for New Contributors" />
+      <published>2018-06-27T22:00:00+00:00</published>
+      <updated>2018-06-27T22:00:00+00:00</updated>
+      <id>https://xdag.io/2018/06/27/looking-for-contributors</id>
+      <content type="html" xml:base="https://xdag.io/2018/06/27/looking-for-contributors.html">As a community run project Dagger is always looking for new contributors to improve and drive the project forwards. Right now we’re specifically looking for developers with C, C++ and blockchain knowledge.
+
+But whether you’re interested in working on marketing, designing, programming or something else and feel like contributing to Dagger — come and have a chat with us! Our team mainly communicates through Discord, but you can message us through other channels as well.
+
+Work done on the project is rewarded on a monthly basis from our community fund.
+
+Dagger began as side project of a single developer, yet soon grew to involve crypto enthusiasts from all around the world. Join us in creating something new and interesting in the ever-changing world of cryptocurrencies.</content><author>
+          <name>Xdag.io</name><email>communitymanager@xdag.io</email></author><summary type="html">As a community run project Dagger is always looking for new contributors to improve and drive the project forwards. Right now we're specifically looking for developers with C, C++ and blockchain knowledge.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://xdag.io/assets/images/posts/join-the-dagger-side.png" /></entry><entry xml:lang="en">
+      <title type="html">XDAG Presentation</title>
+      <link href="https://xdag.io/2018/06/27/xdag-presentation.html" rel="alternate" type="text/html" title="XDAG Presentation" />
+      <published>2018-06-27T00:00:00+00:00</published>
+      <updated>2018-06-27T00:00:00+00:00</updated>
+      <id>https://xdag.io/2018/06/27/xdag-presentation</id>
+      <content type="html" xml:base="https://xdag.io/2018/06/27/xdag-presentation.html">One of our core developers Frozen has made an informative presentation about XDAG. It was made for his in person presentations, but we want to share it with everyone online as well. Check it out! Big thanks to Frozen for all his work on XDAG.
+
+Topics: Introduction, Block, Transaction, PoW, Algorithm, Transport, Security, Future plans.
+Download PDF</content><author>
+          <name>Xdag.io</name><email>communitymanager@xdag.io</email></author><summary type="html">One of our core developers Frozen has made an informative presentation about XDAG. It was made for his in person presentations, but we want to share it with everyone online as well. Check it out! Big thanks to Frozen for all his work on XDAG.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://xdag.io/assets/images/posts/xdag-presentation-img/XDAG-15.jpg" /></entry><entry xml:lang="en">
+      <title type="html">XDAG v0.2.4 Release &amp;amp; Change List</title>
+      <link href="https://xdag.io/2018/06/07/XDAG-v024-release.html" rel="alternate" type="text/html" title="XDAG v0.2.4 Release &amp; Change List" />
+      <published>2018-06-07T09:30:00+00:00</published>
+      <updated>2018-06-07T09:30:00+00:00</updated>
+      <id>https://xdag.io/2018/06/07/XDAG-v024-release</id>
+      <content type="html" xml:base="https://xdag.io/2018/06/07/XDAG-v024-release.html">We are pleased to announce that XDAG v0.2.4 is released.
+
+
+  XDag v0.2.4 release
+  Github
+  BitcoinTalk
+
+
+Change list:
+
+  Whitelist is automatically updated from GitHub.
+  Wallet with mining turned off sends only one share per task instead of six.
+  Inactive connections (connections which do not send shares at all) are automatically disconnected after 5 minutes of inactivity.
+  New command disconnect: allows pool-owner to manually disconnect a miner.
+  Main network and test network are protected against accidental merging.
+  Command history and auto-completion for Mac and Linux console wallets has beed added.
+  Bug with payments to miner which was disconnected long time ago is fixed.
+
+
+Description of disconnect command: this command allows to disconnect some or all connections depending on parameters.
+disconnect all - disconnects all connections
+disconnect ip &amp;lt;IP&amp;gt; - disconnects all connections with specified IP
+disconnect address &amp;lt;ADDRESS&amp;gt; - disconnect all connections with specified address</content><author>
+          <name>Xdag.io</name><email>communitymanager@xdag.io</email></author><summary type="html">We are pleased to announce that XDAG v0.2.4 is released.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://xdag.io/assets/images/posts/v024.png" /></entry></feed>
